@@ -1,2 +1,2 @@
 # MLvsAI
- Project space of my journey bacoming ML profficient
+ Project space of my journey becoming ML profficient
